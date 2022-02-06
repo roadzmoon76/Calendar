@@ -1,0 +1,59 @@
+body {
+  background-image: url("./images/bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Varela Round", sans-serif;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  font-size: 72px;
+}
+
+main {
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.first-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.second-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 12rem;
+  width: 20rem;
+}
+
+table {
+}
+
+.left-button {
+  background-color: transparent;
+  border: 0px;
+}
+
+.right-button {
+  background-color: transparent;
+  border: 0px;
+}
+
+td {
+  text-align: center;
+}
+
+.this-day {
+}
+
+.this-date {
+}
+
+.this-month-year {
+}
